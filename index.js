@@ -1,2 +1,1 @@
-// Das ist mein Workspace
-//Test neu
+console.log("Hello Chris!");
